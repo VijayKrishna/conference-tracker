@@ -3,3 +3,9 @@ conferences:
   - title: ICSE
     url: http://www.icse-conferences.org/
     date: 2016-05-14
+  - title: VISSOFT
+    url: http://vissoft.dcc.uchile.cl/
+    date: 2015-09-27
+  - title: ESEC/FSE
+    url: http://esec-fse15.dei.polimi.it/
+    date: 2015-08-30
